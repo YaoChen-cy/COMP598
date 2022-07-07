@@ -1,2 +1,0 @@
-The counting problem is coming from the data annotation process. 
-In dataset.tsv, there are many tweets/retweets mentioned “Trump” are retweted by others, contains exactly the same content with the original tweets. We didn't filter those retweets out, which leads to counitng problem.
