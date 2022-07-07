@@ -1,6 +1,6 @@
 The file structure is shown below:
 ```
-submission_template
+hw3
 ├── output.json
 ├── scripts
     ├── stats.sh
