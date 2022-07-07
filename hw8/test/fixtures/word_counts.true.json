@@ -1,0 +1,27 @@
+{
+    "twilight sparkle": {
+        "okie": 2,
+        "ohh": 2,
+        "princess": 1
+    },
+    "applejack": {
+        "okie": 3,
+        "princess": 1
+    },
+    "rarity": {
+        "ohh": 3,
+        "princess": 1
+    },
+    "pinkie pie": {
+        "ohh": 2,
+        "princess": 2
+    },
+    "rainbow dash": {
+        "ohh": 2,
+        "princess": 2
+    },
+    "fluttershy": {
+        "ohh": 2,
+        "princess": 2
+    }
+}
