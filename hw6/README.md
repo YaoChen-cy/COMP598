@@ -13,3 +13,16 @@ The script is called like: python3 compute_title_lengths.py <input_file>.
 The Task 2 is to scraping data from website.\
 The script collect_relationships.py that collects the relationships for a set of celebrities provided in a JSON configuration file as follows:
 python3 collect_relationships.py -c <config-file.json> -o <output_file.json>
+
+The file structure is shown below:
+
+```
+submission_template
+├── src
+    ├── collect.py
+    ├── compute_title_lengths.py
+    ├── collect_relationships.py
+├── sample1.json
+├── sample2.json
+├── other folders are optional in this assignment
+```
