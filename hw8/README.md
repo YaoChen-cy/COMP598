@@ -23,4 +23,4 @@ python compute_pony_lang.py -c <pony_counts.json> -n <num_words>
 ```
 The test file test_tasks.py contains two unit tasks. One test for task 1, one for task 2. \
 For the first task, the unit test pickup a mini script file and produce counts that are checked against a JSON file containing ground truth counts.\
-For the second task, the unit test pickup the ground truth counts and compute TF-IDF scores that are checked against a JSON file containing ground truth TF-IDF scores.\
+For the second task, the unit test pickup the ground truth counts and compute TF-IDF scores that are checked against a JSON file containing ground truth TF-IDF scores.
