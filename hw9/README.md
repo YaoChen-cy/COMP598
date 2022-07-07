@@ -26,7 +26,9 @@ Pinkie Pie speaks to Apple Jack \
 Applejack speaks to Spike
 
 The script, build_interaction_network.py, should work as follows
+```
 python build_interaction_network.py -i /path/to/<script_input.csv> -o /path/to/<interaction_network.json>
+```
 where the interaction network json file should have structure...
 ```
       {
@@ -44,7 +46,9 @@ where the interaction network json file should have structure...
       }
 ```
 The script compute_network_stats.py which is run as follows:
+```
 python compute_network_stats.py -i /path/to/<interaction_network.json> -o /path/to/<stats.json>
+```
 We compute the following by using the networkx library:
 - The top three most connected characters by # of edges.
 - The top three most connected characters by sum of the weight of edges.
