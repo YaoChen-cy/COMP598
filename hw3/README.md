@@ -1,3 +1,11 @@
+```
+submission_template
+├── output.json
+├── scripts
+    ├── stats.sh
+├── src
+    ├── dialog_analysis.py
+```
 The bash shell script stats.sh accepts as a command line argument a tweet file and prints out, on subsequent lines:
 - The number of lines in the file.
 - The first line of the file (i.e., the header row).
