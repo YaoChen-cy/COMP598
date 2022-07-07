@@ -1,3 +1,4 @@
+The file structure is shown below:
 ```
 submission_template
 ├── output.json
