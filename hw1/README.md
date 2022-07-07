@@ -1,6 +1,6 @@
 The file structure are shown below:
 ```
-submission_template
+hw1
 ├── dataset.tsv
 ├── results.tsv
 ├── README.md
