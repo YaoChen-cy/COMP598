@@ -4,7 +4,7 @@ submission_template
 ├── dataset.tsv
 ├── results.tsv
 ├── README.md
-├── other folders are optional in this assignment
+├── other folders
 ```
 This mini-project analyzes tweets produced by Russian trolls during the 2016 US election. These tweets were published by 538.\
 The frequency with which troll tweets mention “Trump” by name was assessing.\
