@@ -14,7 +14,7 @@ In this project, we are trying to find some insight from in the main topics disc
 Task1: Data Collection
 The script "collect_newest.py" collects the 100 newest posts in the subreddit specified. It should run as follows:\
 python3 collect_newest.py -o <output_file> -s <subreddit>\
-Collect two data files, one for mcgill and one for concordia subreddits. \
+Collect two data files, one for mcgill and one for concordia subreddits.
 
 Task2: Prep for coding
 The script extract_to_tsv.py accepts one of the files collected from Reddit and outputs a random selection of posts from that file to a tsv (tab separated value) file. It should function like this:\
@@ -28,6 +28,7 @@ The typology are defined into three categories:
 - food-related (f)
 - residence-related (r)
 - other (o)
+
 All the posts in annotated_mcgill.tsv and annotated_concordia.tsv are coded.\
 
 Task4: Analyze
