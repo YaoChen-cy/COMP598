@@ -1,3 +1,4 @@
+The file structure is shown below:
 ```
 hw7
 ├── src
