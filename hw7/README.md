@@ -20,7 +20,7 @@ Task2: Prep for coding
 The script extract_to_tsv.py accepts one of the files collected from Reddit and outputs a random selection of posts from that file to a tsv (tab separated value) file. It should function like this:\
 python3 extract_to_tsv.py -o <out_file> <json_file> <num_posts_to_output>\
 If <num_posts_to_output> is greater than the file length, then the script should just output all lines.\
-If there are more than <num_posts_to_output> (which is likely the case), then it should randomly select num_posts_to_output of them and just output those.\
+If there are more than <num_posts_to_output> (which is likely the case), then it should randomly select num_posts_to_output of them and just output those.
 
 Task3: Code Post
 The typology are defined into three categories:
@@ -29,7 +29,7 @@ The typology are defined into three categories:
 - residence-related (r)
 - other (o)
 
-All the posts in annotated_mcgill.tsv and annotated_concordia.tsv are coded.\
+All the posts in annotated_mcgill.tsv and annotated_concordia.tsv are coded.
 
 Task4: Analyze
 The script analyze.py outputs the number of each category that appears in annotated files. \
